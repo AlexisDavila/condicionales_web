@@ -5,7 +5,7 @@
       print('Lunes');
       break;
     case 2:
-      rint('Martes');
+      print('Martes');
       break;
     case 3:
       print('Miercoles');
