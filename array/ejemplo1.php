@@ -13,4 +13,7 @@
     }
   }
 
+  array_splice($alumno,6,2);
+  echo "<br>".implode($alumno);
+
 ?>
